@@ -21,6 +21,11 @@ Después de completar el desafío, tu proyecto estará completo y la aplicación
 
 ![generador-de-frases-final-imagen](https://github.com/genesysR-dev/java-persistencia-de-datos-y-consultas-con-spring-data-jpa/assets/91544872/bbda09ca-8279-4d8a-953c-412535014210)
 
+### Referencia al Proyecto Backend
+
+El **backend** de esta aplicación ha sido desarrollado con **Spring Boot** y está disponible en el siguiente [repositorio de GitHub](https://github.com/JJGG1/screenmatch-frases-aleatorias-backend/tree/master).
+
+Asegúrate de configurar la API correctamente antes de ejecutar el frontend, ya que la aplicación depende de los datos que se proporcionan desde el servidor.
 
 
 # ¡Buena suerte!
